@@ -1,0 +1,63 @@
+body{
+	background: #BDBDBD;
+	margin: 0;
+}
+.header{
+	background: white;
+	padding: 10px;
+	font-size: 16px;
+	display: flex;
+	justify-content: center;
+}
+
+header h1{
+	margin: 0;	
+}
+
+
+.post{
+	background: white;
+	margin-top: 30px;
+	margin: 30px;
+	display: block;
+	width: 500px;
+	height: 450px;
+	display: block;
+
+}
+
+.post img{
+	width: 100%;
+}
+
+.post-header p{
+	margin-left: 95%;
+}
+
+
+.post-header{
+	margin: 20px 20px;
+	position: relative;
+}
+
+.post-footer p{
+	margin: 10%;
+
+}
+.post-footer{
+	position: relative;
+	padding: 5px;
+}
+
+.icons-box{
+	display: inline-block;
+	position: relative;
+	margin: 5px;
+}
+
+.guardar-icon{
+	display: inline-block;
+	position: relative;
+	margin-left: 80%;
+	margin-top: 1%;
+}
